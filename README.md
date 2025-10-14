@@ -1,6 +1,6 @@
-### Hi, I'm Anirudh 👋
+### Hi, I'm Dot 👋
 
-I'm a 17-year-old developer passionate about computer science, currently in 12th grade. I love building apps, learning new technologies, and exploring how things work under the hood.<br/>
+I'm a student developer passionate about computer science, I love building applications, learning new technologies, and exploring how things work under the hood.<br/>
 
 🔧 Currently working on: full-stack apps and scalable systems and wish to dive into things like neural networks,machine learning and devops<br/>
 📚 Learning more about systems design and technology<br/>
